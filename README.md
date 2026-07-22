@@ -1,2 +1,11 @@
 # Tic-Tac-Toe-Game
-A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript with winner detection and game reset functionality.
+🎮 Tic-Tac-Toe Game
+
+A responsive and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Features include turn-based gameplay, automatic winner detection, game reset functionality, and a clean user-friendly interface.
+
+🔹 Technologies Used: HTML, CSS, JavaScript
+🔹 Features:
+- Two-player gameplay (X & O)
+- Winner detection
+- Reset & New Game options
+- Responsive design
